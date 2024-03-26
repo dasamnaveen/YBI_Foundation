@@ -1,2 +1,2 @@
 # YBI_Foundation
-Projects_Intership
+Intership_Projects
